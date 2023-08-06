@@ -1,3 +1,5 @@
+![My Image](images/green-elephpant-logo.svg)
+
 ## Green ElePHPant
 
 Made for the 🌎 by Carsten Windler
