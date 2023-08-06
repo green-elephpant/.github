@@ -1,8 +1,12 @@
-![My Image](images/green-elephpant-logo.svg)
+<p align="center">
+	<img src="./images/green-elephpant-logo.svg" alt="Green ElePHPant" width="400">
+</p>
 
-## Green ElePHPant
+<h1 align="center">Green ElePHPant</h1>
 
-Made for the 🌎 by Carsten Windler
+<p align="center">
+  Made for the 🌎 by Carsten Windler
+</p>  
 
 ### 🐘 What's it about?
 
