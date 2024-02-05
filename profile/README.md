@@ -26,11 +26,11 @@ So far, the Green ElePHPant is a one-man show. Hopefully, this will change soon!
 
 ## Projects
 
-### CarbonAware
+### CarbonAware - Carbon Aware PHP
 
 https://github.com/green-elephpant/carbon-aware
 
-The first and probably most important piece of _Green ElePHPant_ is the _CarbonAware_ toolkit. Its aim is to provide an easy way for all PHP developers to reduce carbon emissions of their code.
+The first and probably most important piece of _Green ElePHPant_ is the _CarbonAware_ toolkit. Its aim is to provide an easy way for all PHP developers to reduce carbon emissions of their software by making it carbon aware.
 
 How does it work? Well, we are right in a transition period, from fossile to renewable energy.
 
